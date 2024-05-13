@@ -156,7 +156,7 @@ const List = [
   },
   {
     img: "/image-gaming-growth.jpg",
-    number: "01",
+    number: "03",
     title: "The Growth of Gaming",
     text: "How the pandemic has sparked fresh opportunities.",
   },

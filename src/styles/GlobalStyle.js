@@ -41,16 +41,18 @@ html {
 body {
   font-family: "Inter", sans-serif;
   color: var(--color-grey-500);
-  min-height: 100dvh;
-  padding: 10rem;
+  min-height: 100vh;
+  padding: 8rem 10rem;
   line-height: 1.5;
   font-size: 1.6rem;
+  display: grid;
+  place-items: center;
 }
 
-#root{
+/* #root{
     max-width: 144rem;
     margin: 0 auto;
-}
+} */
 
 input,
 button,
